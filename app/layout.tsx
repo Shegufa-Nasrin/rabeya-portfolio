@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Rabeya Sultana | Sales & Marketing Professional",
+  title: "Rabeya Sultana | Sales & Marketing",
   description:
     "Customer service, sales and marketing professional with over 8 years of experience across the UAE and Bangladesh.",
 };
