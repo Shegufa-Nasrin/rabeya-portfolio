@@ -57,7 +57,7 @@ const HeroSection = () => {
                     width={20}
                     height={20}
                   />
-                  <p className="text-primary">Al Ain, UAE (Open to Relcoate)</p>
+                  <p className="text-primary">Al Ain, UAE (Open to Relocate)</p>
                 </div>
               </div>
               <div className="flex shrink-0 flex-col md:flex-row items-center gap-4">
