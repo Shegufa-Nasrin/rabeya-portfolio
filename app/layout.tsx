@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Header from "./components/layout/header";
 import Footer from "./components/layout/footer";
 
 const inter = Inter({
@@ -10,8 +9,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Typefolio",
-  description: "Typefolio - Nextjs Templates",
+  title: "Rabeya Sultana | Sales & Marketing Professional",
+  description:
+    "Customer service, sales and marketing professional with over 8 years of experience across the UAE and Bangladesh.",
 };
 
 export default function RootLayout({
@@ -22,9 +22,8 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className={inter.className}>
-        <Header/>
         {children}
-        <Footer/>
+        <Footer />
       </body>
     </html>
   );
