@@ -1,8 +1,6 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
-@source not "../typefolio";
-
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
