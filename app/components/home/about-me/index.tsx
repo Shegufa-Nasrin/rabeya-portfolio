@@ -29,12 +29,12 @@ const AboutMe = () => {
               </p>
               <h2 className="text-xl sm:text-2xl md:text-[22px] lg:text-[23px] font-normal leading-[1.3] text-left md:text-justify text-pretty">
                 With over 8 years of experience across sales, client
-                coordination and marketing roles in the UAE and Bangladesh, I’ve
-                built a steady record of{" "}
+                coordination and marketing roles in the UAE and Bangladesh, I
+                have built a steady record of{" "}
                 <span className="bg-[linear-gradient(90deg,rgba(243,202,77,0.4)_0%,rgba(243,202,77,0.05)_100%)]">
                   meeting targets
                 </span>{" "}
-                while keeping client relationships and day-to-day operations
+                while keeping client relationships and day to day operations
                 organized.
               </h2>
               <h5 className="text-secondary font-normal">
